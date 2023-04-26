@@ -74,16 +74,16 @@
 </p>
 <br>
 <!-- <p style="display: flex; flex-direction: row;"> -->
-<p align="center" display="flex" flex-direction='row'>
+<!-- <p align="center">
   <img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=altyon-get&show_icons=true&locale=en&layout=compact"
     alt="altyon-get" />
+</p> -->
 
-  <!-- <p align="center"> -->
+<p align="center">
   &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=altyon-get&show_icons=true&locale=en"
     alt="altyon-get" />
-  <!-- </p> -->
 </p>
 
 <p align="center">
