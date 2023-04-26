@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subham Ojha</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=altyon-get&label=Profile%20views&color=0e75b6&style=flat"
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=altyon-get&label=Profile%20views&color=0e75b6&style=flat"
     alt="altyon-get" /> </p>
 
 - 🌱 I’m currently learning **React**
