@@ -74,15 +74,19 @@
 </p>
 <br>
 <p style="display: flex; flex-direction: row;">
+<p align="center">
   <img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=altyon-get&show_icons=true&locale=en&layout=compact"
     alt="altyon-get" />
 
   &nbsp;<img align="center"
     src="https://github-readme-stats.vercel.app/api?username=altyon-get&show_icons=true&locale=en" alt="altyon-get" />
+</p>
 
 </p>
 
 <p style="display: flex; flex-direction: column; align-items: center;">
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altyon-get&" alt="altyon-get" />
+</p>
 </p>
