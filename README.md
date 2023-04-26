@@ -86,6 +86,6 @@
     alt="altyon-get" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altyon-get&" alt="altyon-get" />
-</p>
+</p> -->
