@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Javascript,MERN,Competitive Programming**
-
+0
 - 📫 How to reach me **https://linktr.ee/altyon**
 
 <h3 align="left">Connect with me:</h3>
@@ -73,17 +73,17 @@
       height="60" /> </a>
 </p>
 <br>
-
-<p align="center">
+<!-- <p style="display: flex; flex-direction: row;"> -->
+<p align="center" display="flex" flex-direction='row'>
   <img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=altyon-get&show_icons=true&locale=en&layout=compact"
     alt="altyon-get" />
-</p>
 
-<p align="center">
+  <!-- <p align="center"> -->
   &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=altyon-get&show_icons=true&locale=en"
     alt="altyon-get" />
+  <!-- </p> -->
 </p>
 
 <p align="center">
