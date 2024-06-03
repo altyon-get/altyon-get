@@ -5,7 +5,7 @@
     src="https://komarev.com/ghpvc/?username=altyon-get&label=Profile%20views&color=0e75b6&style=flat"
     alt="altyon-get" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Javascript, MERN, Competitive Programming**
 
