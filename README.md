@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Javascript, MERN, Competitive Programming**
+- 💬 Ask me about **Javascript, React, Competitive Programming**
 
 - 📫 How to reach me **https://linktr.ee/altyon**
 
