@@ -5,11 +5,11 @@
     src="https://komarev.com/ghpvc/?username=altyon-get&label=Profile%20views&color=0e75b6&style=flat"
     alt="altyon-get" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning: **Python**
 
-- 💬 Ask me about **Javascript, React, Competitive Programming**
+- 💬 Ask me about: **Javascript, React, Competitive Programming**
 
-- 📫 How to reach me **https://linktr.ee/altyon**
+- 📫 How to reach me: **https://linktr.ee/altyon**
 
 <h3 align="left">Connect with me on:</h3>
 <p align="center">
